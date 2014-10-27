@@ -1,0 +1,10 @@
+<VHFS>
+<ChunkUtiliy>
+<Read DataToReadMB="512" EnableRead="0" />
+<Write BlockSize="512" DataToWriteMB="512" EnableWrite="1" />
+<Chunk ChunkSize="512" Location="./chunkfile/" ReserveSpaceinStart="100" />
+<Mongo Collection="makcollection" Db="makdatabase" server="localhost" />
+<RandomRead Percentage="0" RandomEnable="0" Seed="4586" />
+<Log Severity="1" />
+</ChunkUtiliy>
+</VHFS>
