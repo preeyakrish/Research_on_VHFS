@@ -1,0 +1,11 @@
+D:\Destination_VHD_folder\Disk0_full.vhd 67.0046147
+D:\Destination_VHD_folder\Disk0_incr1.vhd 54.8122206
+D:\Destination_VHD_folder\Disk0_incr2.vhd 75.8380314
+D:\Destination_VHD_folder\Disk0_incr3.vhd 58.6240047
+D:\Destination_VHD_folder\Disk0_incr4.vhd 69.0753081
+D:\Destination_VHD_folder\Disk0_incr5.vhd 80.1802877
+D:\Destination_VHD_folder\Disk0_incr6.vhd 67.9760202
+D:\Destination_VHD_folder\Disk0_incr7.vhd 72.6299968
+D:\Destination_VHD_folder\Disk0_incr8.vhd 67.9885656
+D:\Destination_VHD_folder\Disk0_incr9.vhd 72.9161218
+D:\Destination_VHD_folder\Disk0_incr10.vhd 80.6669477
